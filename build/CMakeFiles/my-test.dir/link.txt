@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/my-test.dir/src/main.cpp.o" -o my-test  /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 /usr/lib/x86_64-linux-gnu/libSDL2main.a /usr/lib/x86_64-linux-gnu/libSDL2.so /home/mdurrani/imgui_testing/calib/vcpkg/installed/x64-linux/lib/libimgui.a -Wl,--as-needed /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
