@@ -1,3 +1,0 @@
-/home/mdurrani/imgui_testing/calib/bin/CMakeFiles/my-test.dir
-/home/mdurrani/imgui_testing/calib/bin/CMakeFiles/edit_cache.dir
-/home/mdurrani/imgui_testing/calib/bin/CMakeFiles/rebuild_cache.dir
